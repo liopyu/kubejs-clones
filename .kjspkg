@@ -1,0 +1,12 @@
+{
+    "author": "",
+    "description": "Directly replicates Illusioner's cloning logic",
+    "versions": [
+        10
+    ],
+    "modloaders": [
+        "forge"
+    ],
+    "dependencies": [],
+    "incompatibilities": []
+}
